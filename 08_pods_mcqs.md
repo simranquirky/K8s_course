@@ -91,7 +91,7 @@ Which Kubernetes component ensures that the desired state of the cluster is main
 - [ ] etcd  
 - [ ] Kubelet  
 
----
+--- 
 
 ## Question 10
 
@@ -101,3 +101,6 @@ What is the primary function of etcd in Kubernetes architecture?
 - [ ] Handling container runtime  
 - [x] Storing all cluster data, including state and configuration  
 ---
+
+
+---> some changes
